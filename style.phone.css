@@ -233,7 +233,7 @@ body .big_box .main_content .xf_left_box .xf_leftbox_top .xf_time .clock::before
   bottom: 0;
   width: 3.2814rem;
   height: 3.2814rem;
-  background: url(../images/Gradual-circle.svg) no-repeat;
+  background: url(Gradual-circle.svg) no-repeat;
   background-size: cover;
 }
 body .big_box .main_content .xf_left_box .xf_leftbox_top .xf_time .clock::after {
